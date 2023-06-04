@@ -1,0 +1,12 @@
+# All requirements
+
+# sensors
+adafruit-circuitpython-tsl2591      # TSL2591 light sensor      https://pypi.org/project/python-tsl2591/
+adafruit-circuitpython-bme680       # BME680 sensor             https://pypi.org/project/bme680/
+mh-z19                              # MH-Z19C-PH sensor         https://pypi.org/project/mh-z19/0.1.1/
+SEN5x                               # SEN5x sensor              https://pypi.org/project/sensirion-i2c-sen5x/
+smbus2                              # For SPS30                 https://pypi.org/project/smbus2/
+PyAudio                             # For the mic               https://pypi.org/project/PyAudio/
+
+#Cloud services
+Mongodb                             #Atlas                      https://pypi.org/project/pymongo/

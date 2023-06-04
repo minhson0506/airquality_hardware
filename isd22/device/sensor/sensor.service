@@ -1,0 +1,15 @@
+[Unit]
+Description=ISD22 sensor reading service
+
+[Service]
+Type=simple
+ExecStart=python3 /home/pi/isd22/device/sensor/main.py
+WorkingDirectory=/home/pi/isd22/device
+User=root
+ExecStartPre=/bin/sleep 80
+RestartSec=10
+Restart=on-failure
+After=systemd-modules.load.service
+
+[Install]
+WantedBy=multi-user.target
