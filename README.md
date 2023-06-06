@@ -2,7 +2,7 @@
 Metroploia University of Applied Sciences, Finland
 
 # Innovation Project Based On International Sensor Development Project 2022-2023
-Hochschule Osnabr√ºck University of Applied Sciences, Germany & Metropolia University of Applied Sciences, Finland
+Hochschule Osnabruck University of Applied Sciences, Germany & Metropolia University of Applied Sciences, Finland
 
 This bundle contains three folders, in orde to keep the same structure as ISD22. https://github.com/fkah98/isd22
 
