@@ -65,9 +65,31 @@ or <br />
 
 #STL files
 `part required screws and spacers to be assembled`
+	
+4x Hex Standoff Threaded M2.5 Brass 1.181" (30.00mm)
+<p align="center">
+	<img width="150" src="https://github.com/minhson0506/airquality_hardware/assets/73076333/dd4b8dbb-5fd1-42c5-86fa-1fada26d376a">
+</p>
+2x HEX STANDOFF M3 NYLON 10.5MM
+<p align="center">
+	<img width="150" src="https://github.com/minhson0506/airquality_hardware/assets/73076333/d19bd7b6-3893-4a3e-9321-bc234bd826d1">
+</p>
+3x Hex Standoff Threaded M3 Brass 0.197" (5.00mm) Silver
+<p align="center">
+	<img width="150" src="https://github.com/minhson0506/airquality_hardware/assets/73076333/402080cc-9050-4804-a183-1b9a9e937e24">	
+</p>
 
+#Assembly pictures
 
-
+Review the design file QualityAirSensor.dwf using the app https://www.autodesk.com/products/design-review/overview
+<p align="center">
+	<img width="350" height="250" src="https://github.com/minhson0506/airquality_hardware/assets/73076333/217a7fc2-a71b-4483-aeb2-6aa1e539e1cf">	
+	<img width="250" height="250" src="https://github.com/minhson0506/airquality_hardware/assets/73076333/544fc437-3c83-48b0-a901-8d9ac6b41623">	
+	<img width="250" height="250" src="https://github.com/minhson0506/airquality_hardware/assets/73076333/cf7af0b4-9e92-4b58-914b-409721caf33c">	
+</p>
+<p align="center">
+	<img width="1000" alt="Picture 7" src="https://github.com/minhson0506/airquality_hardware/assets/73076333/71ad48a1-6142-411e-a6ca-61c36d4b211e">
+</p>
 
 
 
